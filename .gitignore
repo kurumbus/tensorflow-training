@@ -5,3 +5,6 @@ pizza_steak
 10_food_classes_all_data
 pizza_steak.zip
 10_food_classes_10_percent
+*.zip
+model_checkpoints
+models
